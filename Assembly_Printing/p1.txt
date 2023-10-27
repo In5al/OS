@@ -1,0 +1,1 @@
+adds a character only at cursor position; set to display 3 S 

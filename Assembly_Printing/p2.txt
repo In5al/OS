@@ -1,0 +1,1 @@
+adds a character to cursor position ;also has atribute_atribute color set to purple . displays 3 S 
